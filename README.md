@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KathrinMM
 - 👀 I’m interested in video games, warhammer, puzzles and nail art.
-- 🌱 I’m currently learning data analytics, self teaching.
+- 🌱 I’m currently learning data analytics from codecademy.
